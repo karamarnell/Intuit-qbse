@@ -1,6 +1,6 @@
-/* Created with Localizable Strings Merge, the swiss-army knife for iOS and OS X localization. */
 
-/*  */
+/* Created with Localizable Strings Merge, the swiss-army knife for iOS and OS X localization. 
+  */
 " " = " ";
 
 /* (Sample Customer) */
@@ -10,13 +10,13 @@
 " *" = " *";
 
 /* \u{25CF} %@ Potential deductions %@ */
-" \u{25CF} Potential deductions %@" = " \u{25CF} Potential deductions %@";
+" \\u{25CF} Potential deductions %@" = " \\u{25CF} Potential deductions %@";
 
 /* account qordoba test*/
 " account qordoba test" = " account qordoba test";
 
 /* accounts */
-" accounts" = " accounts";
+" accounts" = "accounts. edits";
 
 /* all (count) */
 " all %d" = " all %d";
@@ -226,7 +226,7 @@
 "%@: %@" = "%1$@: %2$@";
 
 /* <number>[non-breaking space]unreviewed */
-"%@\u{00A0}unreviewed" = "%@\u{00A0}unreviewed";
+"%@\\u{00A0}unreviewed" = "%@\\u{00A0}unreviewed";
 
 /* \(daysLeftInTrial) */
 "%d" = "%d";
@@ -355,19 +355,19 @@
 "?" = "?";
 
 /* (number of days) days */
-"\(daysRemaining) days" = "\(daysRemaining) days";
+"\\(daysRemaining) days" = "\\(daysRemaining) days";
 
 /* (Tax Year, eg: 2018) EXISTING BUSINESS ASSETS */
-"\(taxPrepYear) EXISTING BUSINESS ASSETS" = "\(taxPrepYear) EXISTING BUSINESS ASSETS";
+"\\(taxPrepYear) EXISTING BUSINESS ASSETS" = "\\(taxPrepYear) EXISTING BUSINESS ASSETS";
 
 /* (year) business kilometers: (kilometers) */
-"\(yearString) business kilometers: \(distanceString)" = "\(yearString) business kilometers: \(distanceString)";
+"\\(yearString) business kilometers: \\(distanceString)" = "\\(yearString) business kilometers: \\(distanceString)";
 
 /* (year) business miles: (miles) */
-"\(yearString) business miles: \(distanceString)" = "\(yearString) business miles: \(distanceString)";
+"\\(yearString) business miles: \\(distanceString)" = "\\(yearString) business miles: \\(distanceString)";
 
 /* (year) potential deduction (amount */
-"\(yearString) potential deduction \(deductionString)" = "\(yearString) potential deduction \(deductionString)";
+"\\(yearString) potential deduction \\(deductionString)" = "\\(yearString) potential deduction \\(deductionString)";
 
 /* For an accurate deduction, you need to review your Meals and Entertainment expenses. On a computer, go to selfemployed.intuit.com/login. Once there, look for the tax checklist to get started. */
 "\n\nFor an accurate deduction, you need to review your Meals and Entertainment expenses. On a computer, go to selfemployed.intuit.com/login. Once there, look for the tax checklist to get started." = "\n\nFor an accurate deduction, you need to review your Meals and Entertainment expenses. On a computer, go to selfemployed.intuit.com/login. Once there, look for the tax checklist to get started.";
@@ -376,7 +376,7 @@
 "\n\nTo forward from a different email, edit the email address on your Intuit account." = "\n\nTo forward from a different email, edit the email address on your Intuit account.";
 
 /* Your data is good to go! On a computer, go to {selfemployed.intuit.com/login} to send it off to your accountant or TurboTax.\n\nPrefer to use your phone? Turn on notifications in our app and in device Settings to get a message when phone export is ready. */
-"\n\nYour data is good to go! On a computer, go to \(urlText) to send it off to your accountant or TurboTax.\n\nPrefer to use your phone? Turn on notifications in our app and in device Settings to get a message when phone export is ready." = "\n\nYour data is good to go! On a computer, go to \(urlText) to send it off to your accountant or TurboTax.\n\nPrefer to use your phone? Turn on notifications in our app and in device Settings to get a message when phone export is ready.";
+"\n\nYour data is good to go! On a computer, go to \\(urlText) to send it off to your accountant or TurboTax.\n\nPrefer to use your phone? Turn on notifications in our app and in device Settings to get a message when phone export is ready." = "\n\nYour data is good to go! On a computer, go to \\(urlText) to send it off to your accountant or TurboTax.\n\nPrefer to use your phone? Turn on notifications in our app and in device Settings to get a message when phone export is ready.";
 
 /* A duplicate rule already exists */
 "A duplicate rule already exists" = "A duplicate rule already exists";
@@ -1028,13 +1028,13 @@
 "Business—%@" = "Business—%@";
 
 /* Business—(categoryName) */
-"Business—\(categoryName)" = "Business—\(categoryName)";
+"Business—\\(categoryName)" = "Business—\\(categoryName)";
 
 /* But you can still add your bank and credit card accounts separately. */
 "But you can still add your bank and credit card accounts separately." = "But you can still add your bank and credit card accounts separately.";
 
 /* by <date string> */
-"by \(dateFormatter.string(from: furtureDate))" = "by \(dateFormatter.string(from: furtureDate))";
+"by \\(dateFormatter.string(from: furtureDate))" = "by \\(dateFormatter.string(from: furtureDate))";
 
 /* Can't find a matching transaction */
 "Can't find a matching transaction" = "Can't find a matching transaction";
@@ -1582,7 +1582,7 @@
 "Double-check your info\nbefore sending" = "Double-check your info\nbefore sending";
 
 /* Tax export - Send to TurboTax - Alert 1 - Full text */
-"Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\'t sync back to QuickBooks. You can only send the info once." = "Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\'t sync back to QuickBooks. You can only send the info once.";
+"Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\\'t sync back to QuickBooks. You can only send the info once." = "Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\\'t sync back to QuickBooks. You can only send the info once.";
 
 /* Reviewed entertainment expenses view - Message */
 "Double-checking these expenses means your deduction is as accurate as it can be." = "Double-checking these expenses means your deduction is as accurate as it can be.";
@@ -2274,7 +2274,7 @@
 "If you’re part of a family plan, contact the plan owner to update your billing info." = "If you’re part of a family plan, contact the plan owner to update your billing info.";
 
 /* in <number of days> days */
-"in \(params.daysLeft) days" = "in \(params.daysLeft) days";
+"in \\(params.daysLeft) days" = "in \\(params.daysLeft) days";
 
 /* In your home, do you have an area you use only for business purposes? */
 "In your home, do you have an area you use only for business purposes?" = "In your home, do you have an area you use only for business purposes?";
@@ -2437,7 +2437,7 @@
 "Keep your transactions coming in by giving consent to connect, even if you’re already connected. We’ll walk you through how." = "Keep your transactions coming in by giving consent to connect, even if you’re already connected. We’ll walk you through how.";
 
 /* Keeping \(selectedCount) of \(totalCount) */
-"Keeping \(selectedCount) of \(totalCount)" = "Keeping \(selectedCount) of \(totalCount)";
+"Keeping \\(selectedCount) of \\(totalCount)" = "Keeping \\(selectedCount) of \\(totalCount)";
 
 /* kilometer */
 "kilometer" = "kilometer";
@@ -3651,10 +3651,10 @@
 "Review 1 trip" = "Review 1 trip";
 
 /* Review (number of) transactions */
-"Review \(transactionsCount) transactions" = "Review \(transactionsCount) transactions";
+"Review \\(transactionsCount) transactions" = "Review \\(transactionsCount) transactions";
 
 /* Review (number of) trips */
-"Review \(tripsCount) trips" = "Review \(tripsCount) trips";
+"Review \\(tripsCount) trips" = "Review \\(tripsCount) trips";
 
 /* Review accounts */
 "Review accounts" = "Review accounts";
@@ -4406,10 +4406,10 @@
 "Tax Checklist" = "Tax Checklist";
 
 /* TAX CHECKLIST COMPLETE: (tax checklist year, eg: 2018) */
-"TAX CHECKLIST COMPLETE: \(taxPrepYearString)" = "TAX CHECKLIST COMPLETE: \(taxPrepYearString)";
+"TAX CHECKLIST COMPLETE: \\(taxPrepYearString)" = "TAX CHECKLIST COMPLETE: \\(taxPrepYearString)";
 
 /* TAX CHECKLIST: (tax checklist year, eg: 2018) */
-"TAX CHECKLIST: \(taxPrepYearString)" = "TAX CHECKLIST: \(taxPrepYearString)";
+"TAX CHECKLIST: \\(taxPrepYearString)" = "TAX CHECKLIST: \\(taxPrepYearString)";
 
 /* Tax details */
 "Tax details" = "Tax details";
@@ -5440,7 +5440,7 @@
 "Which do you want to edit?" = "Which do you want to edit?";
 
 /* Which tours interest you most */
-"Which tours interest you most?" = "Which tours interest you most?"; 
+"Which tours interest you most?" = "Which tours interest you most?";
 
 /* Who did you pay? */
 "Who did you pay?" = "Who did you pay?";
@@ -5692,4 +5692,3 @@
 
 /* Zip */
 "Zip" = "Zip";
-
