@@ -1646,7 +1646,7 @@
 "Double-check your info\nbefore sending" = "Double-check your info\nbefore sending";
 
 /* Tax export - Send to TurboTax - Alert 1 - Full text */
-"Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\'t sync back to QuickBooks. You can only send the info once." = "Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\'t sync back to QuickBooks. You can only send the info once.";
+"Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\'t sync back to QuickBooks. You can only send the info once." = "Double-check your info\nbefore sending\n\nYou can make changes in TurboTax, but they don\'t sync back to QuickBooks. You can only send the info once. Add a don't or Kara.";
 
 /* Reviewed entertainment expenses view - Message */
 "Double-checking these expenses means your deduction is as accurate as it can be." = "Double-checking these expenses means your deduction is as accurate as it can be.";
