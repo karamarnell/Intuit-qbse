@@ -261,7 +261,7 @@
 	<string name="psd2NotificationTransactionMessage">Keep your banks connected. Just give the word.</string>
 	<string name="psd2NotificationTransactionAction">@string/cardFdpNotificationPSD2CTAText</string>
 	<string name="cardJobHomePSD2ActionText">To keep your bank accounts connected, we need your permission.</string>
-	<string name="cardJobHomeReceiptForward">Receipts in your inbox? Send them our way. We’ll match them to your expenses.</string>
+	<string name="cardJobHomeReceiptForward">Receipts in your inbox\? Send them our way. We’ll match them to your expenses.</string>
 	<plurals name="cardJobHomeBankOtp">
 		<item quantity="one">%1$d bank needs your attention to keep your transactions up to date.</item>
 		<item quantity="other">%1$d banks need your attention to keep your transactions up to date.</item>
@@ -276,7 +276,7 @@
 	<string name="uiHelperText2">Nice! Now we can unlock your deductions.\nTo edit the business category, just tap\nafter swiping.</string>
 	<string name="uiHelperText3">Don’t include personal items.\nSwipe them right to dismiss.</string>
 	<string name="uiHelperText4">Great job! You can find all reviewed\ntransactions in the Reviewed tab.</string>
-	<string name="uiHelperFinalScreenText">Ready for your own transactions?</string>
+	<string name="uiHelperFinalScreenText">Ready for your own transactions\?</string>
 	<string name="uiHelperButtonText1">Just one more tip</string>
 	<string name="uiHelperButtonGoText">Let’s go</string>
 	<string name="uiHelperDismissText">I already know how this works</string>
@@ -334,7 +334,7 @@
 	<string name="editTransactionCreateRuleContentDescription">Create a rule</string>
 	<string name="editTransactionAddReceipt">Attach receipt</string>
 	<string name="editTransactionEditReceipt">View/edit receipt</string>
-	<string name="editTransactionConfirmDeleteAttachment">Are you sure you want to delete this receipt?</string>
+	<string name="editTransactionConfirmDeleteAttachment">Are you sure you want to delete this receipt\?</string>
 	<string name="editTransactionAttachingReceipt">Uploading receipt…</string>
 	<string name="editTransactionUploadFailureText">Upload failed</string>
 	<string name="editTransactionAttachmentDialogViewReceipt">View receipt</string>
@@ -377,8 +377,8 @@
 	<!-- =================== -->
 	<!-- confirmation dialog -->
 	<!-- =================== -->
-	<string name="leaveScreenConfirmationMessage">Are you sure you want to cancel and lose any changes?</string>
-	<string name="editTransactionLeaveScreenConfirmationWhileUploadingMessage">Are you sure want to cancel and lose any changes along with the uploading in progress?</string>
+	<string name="leaveScreenConfirmationMessage">Are you sure you want to cancel and lose any changes\?</string>
+	<string name="editTransactionLeaveScreenConfirmationWhileUploadingMessage">Are you sure want to cancel and lose any changes along with the uploading in progress\?</string>
 
 
 	<!-- ===================================== -->
@@ -392,7 +392,7 @@
 	<string name="editCashVendor">Vendor</string>
 	<string name="editCashDate">Date</string>
 	<string name="editCashAmount">Amount</string>
-	<string name="editCashWhoPaidYou">Who paid you?</string>
+	<string name="editCashWhoPaidYou">Who paid you\?</string>
 	<string name="editCashAddIncomeTitle">Add income</string>
 	<string name="editCashAddExpenseTitle">Add expense</string>
 	<string name="editCashCategoryLabel">Category</string>
@@ -417,7 +417,7 @@
 
 	<!-- confirmation message when deleting a cash transaction -->
 
-	<string name="editCashConfirmDeleteTransaction">Are you sure you want to delete this transaction?</string>
+	<string name="editCashConfirmDeleteTransaction">Are you sure you want to delete this transaction\?</string>
 	<string name="editTxnUploadInProgressTitle">Upload in progress</string>
 	<string name="editTxnUploadInProgressMessage">Please wait for the upload to complete before saving.</string>
 
@@ -698,14 +698,14 @@
 	<string name="taxExportConfirmationSubHeader1">Your data is good to go! On a computer, go to</string>
 	<string name="taxExportConfirmationSubHeader2">selfemployed.intuit.com/login</string>
 	<string name="taxExportConfirmationSubHeader3">to send it off to your accountant or TurboTax.</string>
-	<string name="taxExportConfirmationSubHeader4">Prefer to use your phone? Turn on notifications in our app and in device Settings to get a message when phone export is ready.</string>
+	<string name="taxExportConfirmationSubHeader4">Prefer to use your phone\? Turn on notifications in our app and in device Settings to get a message when phone export is ready.</string>
 	<string name="taxExportConfirmationHeader">Finish up at our website</string>
 	<string name="taxExportEntertainmentHeader">Review entertainment expenses on a computer</string>
 	<string name="taxExportEntertainmentSubHeader1">For an accurate deduction, you need to review your Meals and Entertainment expenses.</string>
 	<string name="taxExportEntertainmentSubHeader2">On a computer, go to selfemployed.intuit.com/login.</string>
 	<string name="taxExportEntertainmentSubHeader3">Afterward, view your tax summary from either phone or computer.</string>
 	<string name="taxExportConfirmationGotIt">Got it</string>
-	<string name="taxExportSummaryHeader">Here’s a summary of your self-employed tax info. We send the bulk of it over to TurboTax, but some amounts you’ll need to enter manually. Questions? We have answers.</string>
+	<string name="taxExportSummaryHeader">Here’s a summary of your self-employed tax info. We send the bulk of it over to TurboTax, but some amounts you’ll need to enter manually. Questions\? We have answers.</string>
 	<string name="taxExportSendToTurboTaxLabel">Send to TurboTax</string>
 	<string name="taxExportFileWithTurboTaxLabel">File with TurboTax</string>
 	<string name="taxExportSendToAccountantLabel">Send to accountant</string>
@@ -719,7 +719,7 @@
 
 	<!--example: Use your TurboTax sign-in: qsedev+iamtestpass_feb-08-13-20-72@gmail.com. This is where we’ll send your info.-->
 	<string name="taxExportedDialogHeader">Use your TurboTax sign-in: %s. This is where we’ll send your info. </string>
-	<string name="taxExportedDialogDifferentAccountHeader">Using a different TurboTax account?</string>
+	<string name="taxExportedDialogDifferentAccountHeader">Using a different TurboTax account\?</string>
 	<string name="taxExportedContinueToTTMobileButton">Continue to TurboTax mobile app</string>
 	<string name="taxExportedContinueToTTWebButton">Continue to TurboTax website</string>
 	<string name="taxExportSummaryHeadupText">We show your tracked income, which can include sales tax, reimbursements and other fees the IRS doesn’t treat as income. This means the income you tracked here may not match the amount you report on your tax return.</string>
@@ -755,7 +755,7 @@
 	<string name="addressPickerCurrentLocationLabel">Current Location</string>
 
 	<!-- favorite location dialogs -->
-	<string name="favoriteLocationsDeleteConfDialogTitle">Remove this name from all your trips?</string>
+	<string name="favoriteLocationsDeleteConfDialogTitle">Remove this name from all your trips\?</string>
 	<string name="favoriteLocationsDeleteConfDialogHint">You’ll see the full address instead.</string>
 	<string name="favoriteLocationsDeleteConfDialogRemove">Remove</string>
 
@@ -765,10 +765,10 @@
 	<string name="favoriteLocationsAddressExistsDialogTitle">Another favorite location is too close by</string>
 	<string name="favoriteLocationsAddressExistsDialogHint">The address is the same, or so close that it looks the same to your device’s GPS.</string>
 
-	<string name="favoriteLocationsEditFavoriteLocationNameDialogTitle">Change the name everywhere?</string>
+	<string name="favoriteLocationsEditFavoriteLocationNameDialogTitle">Change the name everywhere\?</string>
 	<string name="favoriteLocationsEditFavoriteLocationNameDialogHint">Your change applies to all trips with this address.</string>
 
-	<string name="favoriteLocationsEditFavoriteLocationAddressDialogTitle">Which do you want to edit?</string>
+	<string name="favoriteLocationsEditFavoriteLocationAddressDialogTitle">Which do you want to edit\?</string>
 
 	<string name="favoriteLocationsEditAddressForTripDialogOption">This trip only</string>
 	<string name="favoriteLocationsEditAddressForFavoriteLocationOption">Favorite location and this trip</string>
@@ -815,10 +815,10 @@
 		<item quantity="other">%1$d trips marked as personal</item>
 	</plurals>
 	<string name="bulkReviewDone">Done</string>
-	<string name="bulkReviewConfirmationTitle">Are you sure?</string>
-	<string name="bulkReviewConfirmBusinessDesc">Confirm you want to mark these trips as Business - %1$s?</string>
-	<string name="bulkReviewConfirmPersonalDesc">Confirm you want to mark these trips as Personal?</string>
-	<string name="bulkReviewFtuToolTipTitle">Want to select multiple trips?</string>
+	<string name="bulkReviewConfirmationTitle">Are you sure\?</string>
+	<string name="bulkReviewConfirmBusinessDesc">Confirm you want to mark these trips as Business - %1$s\?</string>
+	<string name="bulkReviewConfirmPersonalDesc">Confirm you want to mark these trips as Personal\?</string>
+	<string name="bulkReviewFtuToolTipTitle">Want to select multiple trips\?</string>
 	<string name="bulkReviewFtuToolTipDescText">Tap and hold a trip to get into the bulk selection mode.</string>
 	<string name="bulkReviewErrorTitle">Something’s not right</string>
 	<plurals name="bulkReviewErrorDescription">
@@ -942,7 +942,7 @@
 	<string name="milesEditShowProgressUpdateTrip">Updating your trip…</string>
 	<string name="milesEditShowProgressDeleteTrip">Deleting your trip…</string>
 
-	<string name="milesEditConfirmDeleteTrip">Are you sure you want to delete this trip?</string>
+	<string name="milesEditConfirmDeleteTrip">Are you sure you want to delete this trip\?</string>
 
 	<string name="milesInProcessTitle">Unable to edit trip</string>
 	<string name="milesInProcessMessage">Please try again after we finish processing your trip.</string>
@@ -1044,10 +1044,10 @@
 	<string name="tripRuleApplyToPastLabelText">Apply this rule to past trips</string>
 
 	<!-- Always mark trips from <b>2040, Main Street, Palo Alto</b> to <b>500, Main Street, Palo Alto</b> as <b>Business - Meeting Client</b> -->
-	<string name="tripRuleFormattedTextForBusiness">Always mark trips from %1$s to %2$s as Business - %3$s?</string>
+	<string name="tripRuleFormattedTextForBusiness">Always mark trips from %1$s to %2$s as Business - %3$s\?</string>
 
 	<!-- Always mark trips from <b>2040, Main Street, Palo Alto</b> to <b>500, Main Street, Palo Alto</b> as <b>Personal</b> -->
-	<string name="tripRuleFormattedTextForPersonal">Always mark trips from %1$s to %2$s as Personal?</string>
+	<string name="tripRuleFormattedTextForPersonal">Always mark trips from %1$s to %2$s as Personal\?</string>
 
 	<string name="saveTripRuleDeleteDialogMessage">If you delete the rule, past trips that fall under this rule will remain the same, but the rule will not be applied to any future trips.</string>
 
@@ -1113,7 +1113,7 @@
 	<string name="mngBanksErrorAction1">ACTION 1</string>
 	<string name="mngBanksErrorAction2">ACTION 2</string>
 	<string name="mngBanksConfirDeleteFIMessage">All of your transaction data for this account will be deleted. This action cannot be undone.</string>
-	<string name="mngBanksConfirDeleteFITitle">Delete this bank account?</string>
+	<string name="mngBanksConfirDeleteFITitle">Delete this bank account\?</string>
 	<string name="mngBanksConfirDeleteNegativeButton" tools:ignore="ButtonCase">Cancel</string>
 	<string name="mngBanksConfirDeletePositiveButton">Delete</string>
 	<string name="mngBanksUnenrollCaf">Unenrolling…</string>
@@ -1121,11 +1121,11 @@
 	<string name="mngBanksDeletingBankWaitMessage">Deleting %1$s…</string>    <!-- Example: Deleting Chase bank -->
 	<string name="mngBanksStopSyncingBankWaitMessage">Stopping sync…</string>
 	<string name="mngBanksStopSyncingMessage">This stops syncing future transactions, but saves all existing transactions.</string>
-	<string name="mngBanksStopSyncingTitle">Stop syncing this account?</string>
+	<string name="mngBanksStopSyncingTitle">Stop syncing this account\?</string>
 	<string name="mngBanksStopSyncingPositiveButton">Stop syncing</string>
 	<string name="mngBanksStopSyncingNegativeButton">Cancel</string>
 	<string name="mngBanksStopSyncingContentMessage">You can still view all existing transactions. If you’re not using this account anymore, you can delete it.</string>
-	<string name="mngBanksResumeSyncingTitle">Resume syncing this account?</string>
+	<string name="mngBanksResumeSyncingTitle">Resume syncing this account\?</string>
 	<string name="mngBanksResumeSyncingPositiveButton">Resume syncing</string>
 	<string name="mngBanksResumeSyncingNegativeButton">Cancel</string>
 	<string name="mngBanksResumeSyncingBankWaitMessage">Resuming sync…</string>
@@ -1136,7 +1136,7 @@
 	<string name="mngBanksZeroStateLabel2">Tap Add (+) to add a bank and get automatic downloads of your bank transactions.</string>
 	<string name="mngBanksValidMFAInput">Please enter a valid input</string>
 	<string name="verticalEllipsis" translatable="false">&#8942;</string>
-	<string name="mngBanksDiscoverAccountTitle">Have other accounts at this bank?</string>
+	<string name="mngBanksDiscoverAccountTitle">Have other accounts at this bank\?</string>
 	<string name="mngBanksDiscoverAccountAction">Add them</string>
 
 	<string name="bankErrorIconContentDescription">Bank connection error icon</string>
@@ -1286,7 +1286,7 @@
 	<string name="ftuCardTaxCtaMessage">Add some basic info</string>
 	<string name="ftuCardTaxTitle">Tame the tax beast. Stay ahead all year and avoid surprises.</string>
 	<string name="ftuChecklistCardTaxTitle">TAX CHECKLIST READY</string>
-	<string name="ftuChecklistCardTaxMsg">Hungry for it? Sign in at selfemployed.intuit.com.</string>
+	<string name="ftuChecklistCardTaxMsg">Hungry for it\? Sign in at selfemployed.intuit.com.</string>
 
 
 	<!-- Invoice Logo -->
@@ -1324,7 +1324,7 @@
 	<string name="add_bank_screen_title">Add a bank</string>
 	<string name="add_bank_search_hint">Find your bank</string>
 	<string name="add_bank_did_you_mean">Did you mean…</string>
-	<string name="add_bank_not_found">Can’t find bank? Double check your search terms, or let us know and we’ll see what we can do to add support for this bank.</string>
+	<string name="add_bank_not_found">Can’t find bank\? Double check your search terms, or let us know and we’ll see what we can do to add support for this bank.</string>
 	<string name="add_bank_suggest_dialog_title">Suggest a bank</string>
 	<string name="add_bank_suggest_submit">Submit</string>
 	<string name="add_bank_suggest_cancel">Cancel</string>
@@ -1374,7 +1374,7 @@
 	<string name="purchaseErrorMessageSubPurchasedForAnotherQBSEUser">A QuickBooks Self-Employed subscription has already been purchased by this Google Play Service user.\nPlease purchase your subscription at selfemployed.intuit.com</string>
 	<string name="purchaseErrorMessageSubPurchasedForAnotherGoogleAccount">You already bought a QuickBooks Self-Employed subscription using another Google Play account. Please sign in with that Google Play account to change your QuickBooks Self-Employed subscription.</string>
 	<string name="purchaseSigningOut">Signing out…</string>
-	<string name="purchaseConfirmDowngradeMessage">Are you sure you want to downgrade your subscription?</string>
+	<string name="purchaseConfirmDowngradeMessage">Are you sure you want to downgrade your subscription\?</string>
 	<string name="purchaseConfirmDowngradePositiveActionText">OK</string>
 	<string name="purchaseConfirmDowngradeNegativeActionText">Cancel</string>
 
@@ -1525,8 +1525,8 @@
 
 	<!-- Confirm rule screen -->
 	<string name="confirmRuleCTAButtonText">Confirm</string>
-	<string name="confirmRuleRegularDescriptionFormat">Always mark &lt;b>%1$s&lt;/b> as &lt;b>%2$s&lt;/b>?</string>
-	<string name="confirmRuleSplitDescriptionFormat">Always split &lt;b>%1$s&lt;/b> as &lt;b>%2$s&lt;/b>?</string>
+	<string name="confirmRuleRegularDescriptionFormat">Always mark &lt;b>%1$s&lt;/b> as &lt;b>%2$s&lt;/b>\?</string>
+	<string name="confirmRuleSplitDescriptionFormat">Always split &lt;b>%1$s&lt;/b> as &lt;b>%2$s&lt;/b>\?</string>
 	<string name="confirmRuleRegularBusinessDescriptionFormat">Business %s</string>
 	<string name="confirmRuleSplitStringPersonalFormat">%s%% Personal</string>
 	<string name="confirmRuleSplitStringBusinessFormat">%1$s%% Business&#8212;%2$s</string>
@@ -1536,7 +1536,7 @@
 	<!-- example: "Current account - Wells Fargo" (i.e., the name of the account and the name of the financial institution) -->
 	<string name="saveRuleAccountName">%1$s &#8211; %2$s</string>
 	<string name="saveRuleSaveDialogTitle">Apply Rule</string>
-	<string name="saveRuleSaveDialogMessage">Apply this rule only to future transactions or to all transactions (past and future)?\n\nNote: applying this rule to all transactions will recategorize any existing transactions that match this rule.</string>
+	<string name="saveRuleSaveDialogMessage">Apply this rule only to future transactions or to all transactions (past and future)\?\n\nNote: applying this rule to all transactions will recategorize any existing transactions that match this rule.</string>
 	<string name="saveRuleSaveDialogPositive">Just Future</string>
 	<string name="saveRuleSaveDialogNegative">Recategorize All</string>
 	<string name="saveRuleDeleteDialogTitle">Delete Rule</string>
@@ -1647,8 +1647,8 @@
 	<string name="taxProfileUkPersonalAllowanceAmount">Personal allowance amount</string>
 	<string name="taxProfileUkEstimatedPayeIncome">Estimated PAYE income</string>
 	<string name="taxProfileUkOtherIncome">Other income (e.g. rental)</string>
-	<string name="taxProfileUkExemptyNic">Are you exempt from NIC2?</string>
-	<string name="taxProfileDoYouWorkFromHome">Do you work from home ?</string>
+	<string name="taxProfileUkExemptyNic">Are you exempt from NIC2\?</string>
+	<string name="taxProfileDoYouWorkFromHome">Do you work from home \?</string>
 	<string name="taxProfileWorkFromHomeHours">Hours per month</string>
 
 	<!-- ================== -->
@@ -1754,7 +1754,7 @@
 	<string name="dismissCard">Dismiss Card</string>
 	<string name="cardConnectBankTitleText">Let’s make expense tracking automatic.</string>
 	<string name="cardMileageTitleText">Track your work mileage automatically.</string>
-	<string name="cardTaxProfileTitleText">Married or single? Your tax forms want to know.</string>
+	<string name="cardTaxProfileTitleText">Married or single\? Your tax forms want to know.</string>
 	<string name="cardTurboTaxTitleText">Deductions found. Now add TurboTax for easier filing.</string>
 	<string name="cardBankErrorTitleText">Something’s wrong with your bank connection.</string>
 	<!-- example:  Give a friend 50% off, get 25$-->
@@ -1792,20 +1792,20 @@
 	</plurals>
 	<string name="cardInvoiceTitleText">Get paid for your work, no matter where you are.</string>
 	<string name="cardSetupPaymentsTitleText">Accept payments for free and know when they’re on the way.</string>
-	<string name="cardNPSTitleText">Got a minute to let us know \nhow we’re doing?</string>
+	<string name="cardNPSTitleText">Got a minute to let us know \nhow we’re doing\?</string>
 	<!-- example:  Don't forget to file and pay your taxes by December 31-->
 
 	<string name="cardUKPaymentReminderTitleText">Don’t forget to file and pay your taxes by %1$s.</string>
-	<string name="cardImportToTtTitleText">Did you know you can send your info to TurboTax for faster tax filing?</string>
+	<string name="cardImportToTtTitleText">Did you know you can send your info to TurboTax for faster tax filing\?</string>
 	<string name="cardAddUserIndustryTitleText">We think you’re fascinating. We’d love to know a bit about your work.</string>
-	<string name="cardRatingTitleText">Hey boss, loving the app?</string>
-	<string name="cardRatingFeedbackTitleText">Sorry to hear that. How can we improve?</string>
-	<string name="cardRatingRateusTitleText">Want to support us by leaving a review?</string>
+	<string name="cardRatingTitleText">Hey boss, loving the app\?</string>
+	<string name="cardRatingFeedbackTitleText">Sorry to hear that. How can we improve\?</string>
+	<string name="cardRatingRateusTitleText">Want to support us by leaving a review\?</string>
 	<string name="cardInviteAccountantTitleText">Accountants help you save more! Connect with your accountant.</string>
 	<string name="cardInviteAccountantCTAText">Invite accountant</string>
 	<string name="cardLaunchCUITitleText">Meet your new assistant. Artificially intelligent, genuinely helpful.</string>
 	<string name="cardLaunchCUICTAText">Ask QB Assistant a question</string>
-	<string name="cardRCDiscoveryTitle">Receipts in your pocket? Wallet? Car? We can fix that.</string>
+	<string name="cardRCDiscoveryTitle">Receipts in your pocket\? Wallet\? Car\? We can fix that.</string>
 	<string name="cardRCDiscoveryCTA">Capture receipt</string>
 	<string name="cardConnectBankCTAText">Add a bank</string>
 	<string name="cardMileageCTAText">Turn on auto-tracking</string>
@@ -1857,12 +1857,12 @@
 	<string name="npsFailFeedbackDialogNegativeActionText">NO</string>
 	<string name="npsFailFeedbackDialogPositiveActionText">CONTACT US</string>
 	<string name="npsPassPlayStoreDialogTitle">Noted!</string>
-	<string name="npsPassPlayStoreDialogMessage">We appreciate your feedback. Want to rate us on Google Play?</string>
+	<string name="npsPassPlayStoreDialogMessage">We appreciate your feedback. Want to rate us on Google Play\?</string>
 	<string name="npsPassPlayStoreDialogNegativeActionText">MAYBE LATER</string>
 	<string name="npsPassPlayStoreDialogPositiveActionText">OK</string>
 	<string name="npsFeedbackFetchSurveyProgressText">Please wait…</string>
 
-	<string name="npsRatingDialogMessage">Got a sec to tell us how we’re doing?</string>
+	<string name="npsRatingDialogMessage">Got a sec to tell us how we’re doing\?</string>
 	<string name="npsRatingDialogLater">Later</string>
 	<string name="npsRatingDialogNow">Sure</string>
 
@@ -1903,7 +1903,7 @@
 	<!-- Receipt Capture -->
 	<!-- =============== -->
 
-	<string name="receiptCaptureFtuTitle">Got a Receipt?</string>
+	<string name="receiptCaptureFtuTitle">Got a Receipt\?</string>
 	<string name="receiptCaptureFtuDescription">Snap a pic and we’ll enter the details for you.</string>
 
 	<string name="receiptCaptureNeedsActionPleaseReview">These fields needs to be reviewed.</string>
@@ -1922,18 +1922,18 @@
 	<string name="receiptCaptureNeedsActionListHeaderText">Review these receipts to make sure they’re accurate.</string>
 	<string name="receiptCaptureTransactionAccountText">Receipt scan</string>
 	<string name="receiptCaptureNeedsActionMatchManualDialogTitle">Can\’t find a matching transaction</string>
-	<string name="receiptCaptureNeedsActionMatchManualDialogMessage">Manually attach this receipt to an existing transaction?</string>
+	<string name="receiptCaptureNeedsActionMatchManualDialogMessage">Manually attach this receipt to an existing transaction\?</string>
 	<string name="receiptCaptureNeedsActionMatchSuccessSnackBarMessage">Your receipt has been matched.</string>
 	<string name="receiptCaptureNeedsActionMatchFoundDialogTitle">Found it!</string>
 	<string name="receiptCaptureNeedsActionMatchFoundDialogMessage">We matched your %s receipt with its transaction.</string>
 	<string name="receiptCaptureNeedsActionUpdatedDialogTitle">Updated</string>
 	<string name="receiptCaptureNeedsActionUpdatedDialogMessage">Your %s transaction has the latest and greatest data.</string>
 	<string name="receiptCaptureNeedsActionConfirmLeaveDialogTitle">Exit without updating</string>
-	<string name="receiptCaptureNeedsActionConfirmLeaveDialogMessage">If you close this receipt info now, it won\’t be updated. OK to exit?</string>
+	<string name="receiptCaptureNeedsActionConfirmLeaveDialogMessage">If you close this receipt info now, it won\’t be updated. OK to exit\?</string>
 
 	<!-- Confirm Match -->
 
-	<string name="receiptCaptureConfirmMatchScreenConfirmDeleteDialogMessage">Are you sure you want to delete this receipt?</string>
+	<string name="receiptCaptureConfirmMatchScreenConfirmDeleteDialogMessage">Are you sure you want to delete this receipt\?</string>
 	<string name="receiptCaptureDeleteReceiptProgressText">Deleting…</string>
 
 	<!-- receipt capture placeholder text labels -->
@@ -1951,8 +1951,8 @@
 
 	<string name="receiptCaptureSearchTransactionReceiptInfo">%1$s | %2$s | %3$s</string>
 	<string name="receiptCaptureSearchTransactionListMatchingProgressText">Matching transactions…</string>
-	<string name="receiptCaptureMatchTransactionDialogTitle">Attach receipt?</string>
-	<string name="receiptCaptureMatchTransactionDialogMessage">Are you sure you want to attach this receipt to this transaction?</string>
+	<string name="receiptCaptureMatchTransactionDialogTitle">Attach receipt\?</string>
+	<string name="receiptCaptureMatchTransactionDialogMessage">Are you sure you want to attach this receipt to this transaction\?</string>
 	<string name="receiptCaptureNoMatchingTransactionsText">We couldn’t find anything for that search.</string>
 
 	<!-- Receipt capture strings for after FAB action -->
@@ -1994,7 +1994,7 @@
 	<string name="mintErrorDialogTitle">Sorry, we couldn’t connect to your Mint account</string>
 	<string name="mintErrorDialogMessage">But you can still add your bank and credit card accounts separately.</string>
 	<string name="mintErrorDialogAction">Ok</string>
-	<string name="mintSelectAccountsHeadline">Are these accounts you use for work?</string>
+	<string name="mintSelectAccountsHeadline">Are these accounts you use for work\?</string>
 	<string name="mintSelectAccountsMessage">Uncheck any that you don’t use for self-employment.</string>
 	<string name="mintSelectAccountsAction">Continue</string>
 	<string name="mintSelectAccountsProgressMessage">Disconnecting from Mint…</string>
@@ -2007,7 +2007,7 @@
 	<string name="mintImportAnimationFinishingUp">Finishing Up</string>
 	<string name="mintImportResultsHeadline">These accounts have landed</string>
 	<string name="mintImportResultsMessage">We connected to some of your self-employed accounts.</string>
-	<string name="mintBackButtonBeforeImportHeadline">Are you sure you want to go back?</string>
+	<string name="mintBackButtonBeforeImportHeadline">Are you sure you want to go back\?</string>
 	<string name="mintBackButtonBeforeImportMessage">If you go back now, you won’t be able to get your transactions from Mint.</string>
 	<string name="mintBackButtonBeforeImportPositiveAction">Go back</string>
 	<string name="mintBackButtonBeforeImportNegativeAction">Cancel</string>
@@ -2063,10 +2063,10 @@
 	<string name="transactionRCMatched">%1$d receipts matched/added to transactions</string> <!-- Example: 3 receipts matched/added to transactions -->
 
 	<string name="default_vehicle_name">My Vehicle</string>
-	<string name="vechileDetailConfirmDialogTitle">Exit without saving?</string>
+	<string name="vechileDetailConfirmDialogTitle">Exit without saving\?</string>
 	<string name="vehicleDetailConfirmDialogPositiveAction">Discard</string>
 	<string name="vehicleDetailConfirmDialogNegativeAction">Cancel</string>
-	<string name="vehicleDetailConfirmDialogMessage">Are you sure you want to discard and lose any changes?</string>
+	<string name="vehicleDetailConfirmDialogMessage">Are you sure you want to discard and lose any changes\?</string>
 
 
 	<!-- =============================================================================== -->
@@ -2114,13 +2114,13 @@
 	<string name="userIndustryScreenTitle">Tell us your industry</string>
 	<string name="userIndustryHintText">Your main self-employment job</string>
 	<string name="userIndustryListLabel">Matching industries</string>
-	<string name="userIndustryNoMatchText">Hmmm, we can’t find a good industry fit. Try a different keyword?</string>
+	<string name="userIndustryNoMatchText">Hmmm, we can’t find a good industry fit. Try a different keyword\?</string>
 	<string name="userIndustryProgressText">Posting…</string>
 	<string name="userIndustrySnackBarTex">Thanks a ton! This helps us make a better app for folks like you.</string>
 
 	<!-- empty text for transaction category filter from taxes screen-->
 
-	<string name="emptyTransactionCategoryFilterTextTitle">No transactions? No problem</string>
+	<string name="emptyTransactionCategoryFilterTextTitle">No transactions\? No problem</string>
 	<!-- example: you just don't have any expenses categorized as Supplies yet.-->
 
 	<string name="emptyTransactionCategoryFilterText">You just don’t have any expenses categorized as\n%1$s yet.</string>
@@ -2152,8 +2152,8 @@
 	<string name="setupSalesTaxSuccessDialogCTA">Got it</string>
 	<string name="salesTaxBadgeGST">GST</string>
 	<string name="salesTaxBadgeSalesTax">Sales tax</string>
-	<string name="salesTaxSummaryHeaderTitleCA">Do you file GST/HST? Review your tax summary report to get the numbers</string>
-	<string name="salesTaxSummaryHeaderTitleAU">Do you need to lodge BAS? Review your tax summary report to get the numbers.</string>
+	<string name="salesTaxSummaryHeaderTitleCA">Do you file GST/HST\? Review your tax summary report to get the numbers</string>
+	<string name="salesTaxSummaryHeaderTitleAU">Do you need to lodge BAS\? Review your tax summary report to get the numbers.</string>
 	<string name="salesTaxSummaryHeaderSubTitle">Tax summary report</string>
 	<string name="salesTaxTransactionProvincePickerContentDescription">Change Province</string>
 	<string name="salesTaxCardDismiss">Not now, no problem. Turn on sales tax anytime in Settings > Your Work Info.</string>
@@ -2164,14 +2164,14 @@
 	<!-- Invoice Sales Tax -->
 	<!-- ================ -->
 
-	<string name="invoicingRegisteredGSTMessage">Where do you collect and pay sales tax?</string>
+	<string name="invoicingRegisteredGSTMessage">Where do you collect and pay sales tax\?</string>
 	<string name="invoicingSetup">Set up sales tax</string>
 	<string name="invoicingSaleTax">Sales Tax</string>
 	<string name="invoicingGST">GST</string>
 	<string name="invoicingProvinceSelectionMessage">Select a province to make sure you charge the correct sales tax. Currently, Quebec and QST aren’t supported.</string>
-	<string name="invoicingHowShowSalesTaxMessage">How do you want to show sales tax on invoices?</string>
-	<string name="invoicingHowShowGSTMessage">GST is 10%. How do you want to show GST on invoices?</string>
-	<string name="invoicingCardGSTTitleText">Charge sales tax? Add it to invoices, plus track how much you collect and owe.</string>
+	<string name="invoicingHowShowSalesTaxMessage">How do you want to show sales tax on invoices\?</string>
+	<string name="invoicingHowShowGSTMessage">GST is 10%. How do you want to show GST on invoices\?</string>
+	<string name="invoicingCardGSTTitleText">Charge sales tax\? Add it to invoices, plus track how much you collect and owe.</string>
 	<string name="invoicingSetupGST">Set up sales tax</string>
 	<string name="invoicingSetupGSTNotSure">Not Sure</string>
 	<string name="invoicingStopManagingSalesMessage">We’ll stop putting sales tax calculations on your invoices and transactions. This won’t affect any invoices you sent or saved already, nor will it affect any transactions tracked.</string>
@@ -2253,10 +2253,10 @@
 	<string name="appshell_error">We are having trouble, please try again</string>
 
 	<!-- receipt email fwd -->
-	<string name="cardReceiptEmailFwdTitleText">Receipts in your inbox? Forward them to us, and we’ll do the rest. </string>
+	<string name="cardReceiptEmailFwdTitleText">Receipts in your inbox\? Forward them to us, and we’ll do the rest. </string>
 	<string name="cardReceiptEmailFwdCTAText">Set Up Receipt Forwarding</string>
 	<string name="cardReceiptEmailFwdPostActionText">Set this up later in Settings > Receipt forwarding</string>
-	<string name="cardReceiptEmailFwdDialogTitle">Receipts in your inbox?</string>
+	<string name="cardReceiptEmailFwdDialogTitle">Receipts in your inbox\?</string>
 	<string name="cardReceiptEmailFwdDialogMessage">Forward receipts from your online purchases and we’ll enter the details for you.</string>
 	<string name="cardReceiptEmailFwdDialogPositiveText">Start forwarding</string>
 	<string name="cardReceiptEmailFwdDialogNegativeText">@string/toolbarButtonCancel</string>
@@ -2274,7 +2274,7 @@
 	<string name="receiptEmailFwdEdsReload">Continue</string>
 	<string name="receiptEmailFwdSuccessUserEmailTitle">You\’re set up to forward receipts from:</string>
 	<string name="receiptEmailFwdSuccessQbseEmailTitle">Forward receipts to:</string>
-	<string name="receiptEmailFwdSuccessQbseEmail">receipts@quickbooks.com</string>
+	<string name="receiptEmailFwdSuccessQbseEmail">receipts\@quickbooks.com</string>
 	<string name="receiptEmailFwdSuccessAddToContact">Add to contacts</string>
 	<string name="receiptEmailFwdSuccessReceiveNotification">Get notified by email when we get your receipts</string>
 	<string name="receiptEmailFwdResendDialogMessage">Look for a new 6 digit code in your inbox or spam folder.</string>
@@ -2303,7 +2303,7 @@
 	<string name="manageBanksClosedAccountErrorMessage">It looks like you\’ve closed one (or more) of your accounts</string>
 	<string name="manageBanksClosedAccountProgressBarMessage">When one account closes, another one opens…</string>
 	<string name="manageBanksClosedAccountToolbarTitle">Fix Connection</string>
-	<string name="replaceNewAccountExplanation"><b>%1$s %2$s ending in %3$s</b> stopped syncing. Do you want to connect a different account? Your existing transactions will still stay in QuickBooks.</string>
+	<string name="replaceNewAccountExplanation"><b>%1$s %2$s ending in %3$s</b> stopped syncing. Do you want to connect a different account\? Your existing transactions will still stay in QuickBooks.</string>
 	<string name="closedAccountExplanation">%1$s stopped syncing with QuickBooks. We didn’t find a new account to connect.</string>
 	<string name="closedAccountRequestError">For some reason, we couldn\’t close or connect this account. Please try again later.</string>
 	<string name="closedAccountReconcileSuccessMessage">Alright, you\’re good to go!</string>
@@ -2413,7 +2413,7 @@
 	<string name="newTaxYearTitle">New tax year, new start!</string>
 	<!-- example: We cleared your dashboard to make room for your 2018 data. -->
 	<string name="newTaxYearMessage1">We cleared your dashboard to make room for your %1$s data.</string>
-	<string name="newTaxYearMessage2">Want to rewind the clock?\nUse your filters to see last year’s data.</string>
+	<string name="newTaxYearMessage2">Want to rewind the clock\?\nUse your filters to see last year’s data.</string>
 	<string name="newTaxYearDashboardCTA">Got it</string>
 
 	<!-- web announcement strings-->
@@ -2446,13 +2446,13 @@
 	<!-- QB Assistant invoke phrases -->
 	<string name="assistantTitle">QB Assistant</string>
 	<string name="assistantInvokeHelp">I need help</string>
-	<string name="assistantInvokeHomeOfficeDeduction">What is the home office deduction?</string>
-	<string name="assistantInvokeInvoiceTrips">What counts as a business trip?</string>
-	<string name="assistantInvokeEstimatedTax">What determines my estimated tax payment?</string>
+	<string name="assistantInvokeHomeOfficeDeduction">What is the home office deduction\?</string>
+	<string name="assistantInvokeInvoiceTrips">What counts as a business trip\?</string>
+	<string name="assistantInvokeEstimatedTax">What determines my estimated tax payment\?</string>
 	<string name="assistantInvokeTakeHomePay">Define take home pay</string>
-	<string name="assistantInvokeMileagePercent">How much can I deduct from my business trips?</string>
-	<string name="assistantInvokeGSTInfo">What is the goods and services tax?</string>
-	<string name="assistantInvokeSetupPayments">How can I get paid online?</string>
+	<string name="assistantInvokeMileagePercent">How much can I deduct from my business trips\?</string>
+	<string name="assistantInvokeGSTInfo">What is the goods and services tax\?</string>
+	<string name="assistantInvokeSetupPayments">How can I get paid online\?</string>
 	<string name="assistantInvokeFeedback">I want to give feedback</string>
 
 	<!--Delete duplicates flow strings-->
@@ -2479,8 +2479,8 @@
 
 	<!-- Mileage feedback screen -->
 	<string name="mileageFeedbackTitle">Mileage feedback</string>
-	<string name="mileageFeedbackRatingQuery">How well is mileage tracking working?</string>
-	<string name="mileageFeedbackOptionQuery">We hoped we were doing better. What’s not working?</string>
+	<string name="mileageFeedbackRatingQuery">How well is mileage tracking working\?</string>
+	<string name="mileageFeedbackOptionQuery">We hoped we were doing better. What’s not working\?</string>
 	<string name="mileageFeedbackOptionSelect">Select all that apply.</string>
 	<string name="mileageFeedbackOptionOthers">Others</string>
 	<string name="mileageFeedbackOthersDescription">Since you selected \"others\", we’d love to know the details so we can look into the issue.</string>
@@ -2540,7 +2540,7 @@
 	<string name="reviewGroupsTitle">Review group</string>
 	<string name="reviewTripsLabel">Review %1$d similar trips</string>
 	<string name="potentialDeductionLabel">Potential deduction %1$s</string>
-	<string name="smartGroupsTripsInfoLabel">Are these trips all alike? Sort them in one go. (Uncheck any trips you want to sort separately.)</string>
+	<string name="smartGroupsTripsInfoLabel">Are these trips all alike\? Sort them in one go. (Uncheck any trips you want to sort separately.)</string>
 	<string name="smartGroupsTripRemainingInfoLabel">Almost done! Review the rest of the group.</string>
 	<string name="smartGroupsZeroState">No groups to review right now.\nCheck back soon!</string>
 	<string name="smartGroupsTripListZeroState">All done!</string>
@@ -2596,7 +2596,7 @@
 	<string name="potentialDedictionsInfo">Watch your mileage deduction zoom when you review your trips.</string>
 	<string name="potentialDeductionsInfoTitle">Your unreviewed trips might be worth %s</string>
 	<string name="mileage_rideshare_description">Track and deduct mileage,\n with or without passengers</string>
-	<string name="rideshareMileageFtuTitle">Are you getting the \nmost from every mile?</string>
+	<string name="rideshareMileageFtuTitle">Are you getting the \nmost from every mile\?</string>
 	<string name="ttseRideshareCta">Got it</string>
 	<string name="btnTtseMileageFtuText">Set up auto-tracking</string>
 	<string name="cdLightBulb">Light Bulb</string>
@@ -2629,7 +2629,7 @@
 	<string name="tvConnectedAccountantDescription">We’ll let you know when your accountant joins.</string>
 	<string name="receiptEmailFwdVerifyEmailMessage2">To forward from a different email, edit the email address on your Intuit account.</string>
 	<string name="email">Email</string>
-	<string name="emailHint">email@example.com</string>
+	<string name="emailHint">email\@example.com</string>
 	<!-- Help and FAQ Strings -->
 	<string name="helpScreenTitle">Help &amp; FAQ</string>
 
@@ -2771,12 +2771,12 @@
 
 	<!-- app store prompt -->
 	<string name="appStoreCheckInTitle">Quick check-in</string>
-	<string name="appStoreCheckInMessage">How’s it going with QuickBooks Self-Employed?</string>
+	<string name="appStoreCheckInMessage">How’s it going with QuickBooks Self-Employed\?</string>
 	<string name="appStoreFeedBackTitle">We’re sorry to hear that</string>
-	<string name="appStoreFeedBackMessage">We want to get better. Would you mind giving us some quick feedback?</string>
+	<string name="appStoreFeedBackMessage">We want to get better. Would you mind giving us some quick feedback\?</string>
 	<string name="appStoreFeedBackLater">Not right now</string>
 	<string name="appStoreGooglePlayTitle">So glad to hear it!</string>
-	<string name="appStoreGooglePlayMessage">Would you take a sec to rate us on Google Play?"</string>
+	<string name="appStoreGooglePlayMessage">Would you take a sec to rate us on Google Play\?\"</string>
 	<string name="appStoreGooglePlayLater">Maybe later</string>
 	<string name="appStoreGreat">Great!</string>
 	<string name="appStoreNotGreat">Not so great</string>
@@ -2845,7 +2845,7 @@
 	<!-- message showing based on the platform where the user purchased their subscription -->
 	<string name="accountHoldTitleForAndroid">Your account is on hold</string>
 	<string name="accountHoldInfoTextForAndroid">We ran into a billing issue in the Google Play Store, where you subscribed. Update your info to avoid cancellation and loss of any discount.</string>
-	<string name="accountHoldUpdateBillingInfoButtonForAndroid">Can’t edit your billing info?</string>
+	<string name="accountHoldUpdateBillingInfoButtonForAndroid">Can’t edit your billing info\?</string>
 
 	<string name="accountHoldTitleForIos">Update your Apple billing info</string>
 	<string name="accountHoldInfoTextForIos">Your QuickBooks Self-Employed subscription is on hold because of a billing issue. Please update your Apple billing info and come back in 24 hours.</string>
@@ -2853,7 +2853,7 @@
 
 	<string name="accountHoldTitleForWeb">Your account is on hold</string>
 	<string name="accountHoldInfoTextForWeb">We ran into a billing issue. Update your info to avoid cancellation and loss of any discount. Changes may take a few hours.</string>
-	<string name="accountHoldUpdateBillingInfoButtonForWeb">@null</string>
+	<string name="accountHoldUpdateBillingInfoButtonForWeb">\@null</string>
 
 	<!-- account hold celebratory screen -->
 	<string name="accountHoldCelebratoryImageContentDesc">Payment information updated</string>
@@ -2863,7 +2863,7 @@
 
 	<!-- Subscription pause confirmation screen -->
 	<string name="subsPauseAccountScreenTitle">Pause account</string>
-	<string name="subsPauseAccountTitle">Want to pause your account for 3 months instead?</string>
+	<string name="subsPauseAccountTitle">Want to pause your account for 3 months instead\?</string>
 	<string name="subsPauseAccountFeatureCheckMarkContentDesc">check mark icon</string>
 	<string name="subsPauseAccountFeature1Text">We’ll pause your account for 3 months. You can reactivate anytime during that period.</string>
 	<string name="subsPauseAccountFeature2Text">While paused, we’ll store your info safely and we won’t bill you.</string>
@@ -2874,14 +2874,14 @@
 	<!-- Subscription pause benefits screen -->
 	<string name="subsPauseScreenTitle">Pause account</string>
 	<string name="subsPauseTitle">Thanks for your interest</string>
-	<string name="subsPauseSubtitle">The pause feature is not quite ready yet, but we’re working on it. Do you still want to cancel right now?</string>
+	<string name="subsPauseSubtitle">The pause feature is not quite ready yet, but we’re working on it. Do you still want to cancel right now\?</string>
 	<string name="subsPauseTakeMeBack">Take me back</string>
 
 	<!-- loss aversion screen -->
 	<string name="lossAversionBeforeYouGoTitle">%1$s, before you go</string> <!-- ex: Justin, before you go -->
 	<string name="lossAversionBeforeYouGoTitleNoName">Before you go</string>
 	<string name="lossAversionBeforeYouGoSubtitle">Look at everything you accomplished so far.</string>
-	<string name="lossAversionScreenTitle">Cancel subscription?</string>
+	<string name="lossAversionScreenTitle">Cancel subscription\?</string>
 	<string name="lossAversionTransactionDeductionTitle">in transaction deductions</string>
 	<string name="lossAversionMileageDeductionTitle">in potential mileage deductions</string>
 	<string name="lossAversionUnpaidInvoiceTitle">in unpaid invoices</string>
@@ -2911,7 +2911,7 @@
 	<string name="getToKnowMeWelcomeBody">Answer 3 quick questions to customize the app and find tax savings just for you.</string>
 	<string name="getToKnowMeWelcomeOnward">Onward!</string>
 	<string name="getToKnowMeWelcomeSkip">Skip customizing</string>
-	<string name="getToKnowMeQ1Title">How long have you worked for yourself?</string>
+	<string name="getToKnowMeQ1Title">How long have you worked for yourself\?</string>
 	<string name="getToKnowMeCelebrateTitle">Tax savings, here we come!</string>
 	<string name="getToKnowMeCelebrateBody">%1$s like you typically write off these expenses and more:</string>  <!-- Eg. Graphics designers like you typically... -->
 	<string name="getToKnowMeCelebrateContinue">Let’s get saving</string>
@@ -2921,7 +2921,7 @@
 	<string name="getToKnowMeLongDuration">3+ years</string>
 
 	<string name="gtkmContinueStep">Continue</string>
-	<string name="gtkmQ3">What do you want to do with QuickBooks Self-Employed?</string>
+	<string name="gtkmQ3">What do you want to do with QuickBooks Self-Employed\?</string>
 	<string name="gtkmQ3Tagline">Pick what’s important right now. The rest will be here if you need it later.</string>
 	<string name="gtkmUseAppMileage">Auto-track miles</string>
 	<string name="gtkmUseAppReceipts">Organize receipts</string>
@@ -2931,10 +2931,10 @@
 	<string name="gtkmUseAppSelectedContentDescription"> Selected</string>
 	<string name="gtkmUseAppUnSelectedContentDescription"> Unselected</string>
 
-	<string name="gtkmQ4">What kind of work do you do?</string>
+	<string name="gtkmQ4">What kind of work do you do\?</string>
 	<string name="gtkmQ4Tagline">We’ll show you the top deductible expenses for your industry.</string>
 	<string name="gtkmSearchIndustry">Search for your industry</string>
-	<string name="gtkmSearchIndustryGhostText">Ex.: "Construction"</string>
+	<string name="gtkmSearchIndustryGhostText">Ex.: \"Construction\"</string>
 	<string name="gtkmPickIndustry">Or pick one of these</string>
 	<string name="gtkmSelectMatch">Select the closest match</string>
 	<string name="gtkmNoMatch">Try a different search term</string>
@@ -2979,7 +2979,7 @@
 	<string name="itemInvalidTotalMessage">This Product or Service has an invalid total amount. Please update total to amount less than 100000000000 in order to save.</string>
 
 	<!-- Suggested Rules -->
-	<string name="rulesConfirmation">Is &lt;b>%1$s&lt;/b> always &lt;b>%2$s?&lt;/b></string> <!-- Eg: Is Target always Business supplies? -->
+	<string name="rulesConfirmation">Is &lt;b>%1$s&lt;/b> always &lt;b>%2$s\?&lt;/b></string> <!-- Eg: Is Target always Business supplies? -->
 	<string name="rulesDetails">If so, we’ll auto-categorize your &lt;b>%1$d unreviewed&lt;/b> %2$s transactions and all future ones.</string> <!-- Eg: If so, we’ll auto-categorize your 12 unreviewed Target transactions and all future ones  -->
 	<string name="rulesAskMeLater">Ask me later</string>
 	<string name="rulesConfirmAction">Yep, always</string>
@@ -2998,7 +2998,7 @@
 	<string name="demoExploreBannerLabel">Explorer mode</string>
 	<string name="demoExploreBannerExitLabel">Exit</string>
 	<string name="paymentsTitle">Take payments online</string>
-	<string name="blockingDialogTitle">Still curious? Keep going!</string>
+	<string name="blockingDialogTitle">Still curious\? Keep going!</string>
 	<string name="blockingDialogText">Get a free 30-day trial to explore to your heart’s content.</string>
 	<string name="blockingDialogButtonText">Start free trial now</string>
 	<string name="demoWelcomeDialogTitle">Welcome, explorer!</string>
@@ -3007,4 +3007,5 @@
 	<string name="mileageInsightCardPotentialDeductionsLabel">Potential deductions</string>
 	<string name="mileageInsightCardBusinessMilesLabel">Business miles</string>
 	<string name="mileageInsightCardDeductionRateLabel">Deduction rate</string>
+
 </resources>
